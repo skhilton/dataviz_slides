@@ -6,9 +6,9 @@ This repo contains the slides and code for my second presentation on 6/4.
 I wrote my slides in `markdown` and converted them to `reveal.js` slides using `pandoc`.
 I link to the class website in the slides if you are interested in looking at the lectures.
 
-[slides.md](slides.md)  
-[slides.html](slides.html):  `html` file generated from    [generate_slides.bash](generate_slides.bash).     
-[generate_slides.bash](generate_slides.bash): `pandoc` code to make `html`  
+[`slides.md`](slides.md)  
+[`slides.html`](slides.html):  `html` file generated from    [generate_slides.bash](generate_slides.bash).     
+[`generate_slides.bash`](generate_slides.bash): `pandoc` code to make `html`  
 
 [color.pdf](color.pdf): collection of slides on color perception
   
